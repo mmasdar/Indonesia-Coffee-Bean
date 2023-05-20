@@ -13,7 +13,7 @@ We employ a data acquisition process that includes a lighting platform with RGB 
 
 Data Acquisition Process            |  Data Acquisition Platform
 :-------------------------:|:-------------------------:
-![Image Alt Text]([https://github.com/mmasdar/Indonesia-Coffee-Bean/blob/main/Dataset%20Acquisition%20Process.jpg])  |  ![Image Alt Text]([https://github.com/mmasdar/Indonesia-Coffee-Bean/blob/main/Dataset%20Acquisition%20Process.jpg])
+![Image Alt Text](https://github.com/mmasdar/Indonesia-Coffee-Bean/blob/main/Dataset%20Acquisition%20Process.jpg)  |  ![Image Alt Text](https://github.com/mmasdar/Indonesia-Coffee-Bean/blob/main/Dataset%20Acquisition%20Process.jpg)
 
 
 
