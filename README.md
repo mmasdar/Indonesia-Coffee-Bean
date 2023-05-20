@@ -6,8 +6,10 @@ This project focuses on data acquisition, pre-processing, and model development 
 ## Data Acquisition
 We employ a data acquisition process that includes a lighting platform with RGB adjustment capabilities and a scaling plate. The lighting platform ensures consistent and controlled lighting conditions, while the RGB adjustment allows precise control over the light's intensity and color composition. Additionally, the scaling plate provides accurate measurements of coffee bean sizes, enhancing the reliability of subsequent analyses.
 
-![Image Alt Text](https://github.com/mmasdar/Indonesia-Coffee-Bean/blob/main/Design%20Dataset%20Acquisition%20Platform.jpg)
-![Image Alt Text](https://github.com/mmasdar/Indonesia-Coffee-Bean/blob/main/Dataset%20Acquisition%20Process.jpg)
+<p float="left">
+  <img src="/Design%20Dataset%20Acquisition%20Platform.jpg" width="100" />
+  <img src="/Dataset%20Acquisition%20Process.jpg" width="100" /> 
+</p>
 
 ## Pre-processing
 During the pre-processing stage of coffee bean analysis, several techniques are applied to enhance the quality of the acquired images. This includes edge detection to identify the boundaries of coffee beans, contour detection to extract their shape information, and morphology operations to refine the bean contours. Furthermore, the pre-processing stage involves separating each coffee bean from the image to ensure individual analysis. By employing these techniques, the pre-processing process enables improved segmentation and extraction of essential features from coffee bean images, facilitating accurate and comprehensive analysis.
